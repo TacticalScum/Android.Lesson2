@@ -27,6 +27,7 @@
                 android:layout_weight="1"
                 android:backgroundTint="#FF9800"
                 android:text="C"
+
                 android:textColor="@color/black"
                 app:cornerRadius="0dp" />
 
@@ -230,7 +231,7 @@
                 android:layout_weight="2"
                 android:backgroundTint="#FF9800"
                 android:text="="
-                android:textColor="@color/black"
+                android:textColor="@color/white"
                 app:cornerRadius="0dp" />
 
         </LinearLayout>
